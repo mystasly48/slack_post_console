@@ -1,0 +1,8 @@
+D:\Programming\C#\Console\slack_post_console\slack_post_console\bin\Debug\slack_post_console.exe.config
+D:\Programming\C#\Console\slack_post_console\slack_post_console\bin\Debug\slack_post_console.exe
+D:\Programming\C#\Console\slack_post_console\slack_post_console\bin\Debug\slack_post_console.pdb
+D:\Programming\C#\Console\slack_post_console\slack_post_console\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\C#\Console\slack_post_console\slack_post_console\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\C#\Console\slack_post_console\slack_post_console\obj\Debug\slack_post_console.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Console\slack_post_console\slack_post_console\obj\Debug\slack_post_console.exe
+D:\Programming\C#\Console\slack_post_console\slack_post_console\obj\Debug\slack_post_console.pdb
